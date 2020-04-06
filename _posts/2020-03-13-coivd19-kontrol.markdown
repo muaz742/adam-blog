@@ -4,7 +4,7 @@ title:  Coivd-19 Kontrol
 date:   2017-07-16 13:32:20 +0300
 description: Coivd-19 Kontrol # Add post description (optional)
 img: 2020-03-13-coivd19-kontrol.jpg # Add image post (optional)
-tags: [Blog, Cihazlar, Telefon]
+tags: [Blog, Sağlık, Pandemi]
 author: # Add name author (optional)
 ---
 
