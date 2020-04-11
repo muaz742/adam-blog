@@ -1,3 +1,17 @@
+{% if page.author == "emrearda" %}
+<section class="author-box">
+  <img src="{{site.baseurl}}/assets/img/emrearda-face.jpg" alt="{{site.author}}" class="author-img">
+  <div class="author-desc">
+    <h2>Emre Arda</h2>
+    <p>3 yıldır arduino ve mikrodenetleyiciler ile uğraşıyorum. Elektromekanik alan ile 2 yılımı geçirdim. Son
+      1 yıldır ise entegre ve tümleşik komponentler ile çalışıyorum.</p>
+    <ul>
+        <li class="email"><a href="mailto:emrearda18@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+        <li class="instagram"><a href="http://instagram.com/emreardailcigen" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+    </ul>
+  </div>
+</section>
+{% else %}
 <section class="author-box">
   <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="{{site.author}}" class="author-img">
   <div class="author-desc">
@@ -27,3 +41,4 @@
     </ul>
   </div>
 </section>
+{% endif %}
