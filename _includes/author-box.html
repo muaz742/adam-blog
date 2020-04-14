@@ -11,6 +11,15 @@
     </ul>
   </div>
 </section>
+{% elsif page.author == "dilruba" %}
+<section class="author-box">
+  <img src="{{site.baseurl}}/assets/img/dilruba-face.jpg" alt="{{site.author}}" class="author-img">
+  <div class="author-desc">
+    <h2>Dilruba Demirci</h2>
+    <p>3 yıldır ebru sanatı ile ilgilenmekle birlikte ve edebiyata yakından ilgim var bunun yanında okuduğum
+      üniversitenin bünyesinde bulunan tiyatro kulübünde aktif üyeyim.</p>
+  </div>
+</section>
 {% else %}
 <section class="author-box">
   <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="{{site.author}}" class="author-img">
