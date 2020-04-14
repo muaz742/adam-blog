@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "BİR ÜTOPYA: SİMERANYA"
+date:   2020-04-14 13:32:20 +0300
+description: Bir Ütopya Simeranya # Add post description (optional)
+img: 2020-04-14-simeranya-0.jpg # Add image post (optional)
+tags: [Edebiyat, Kitap, İnceleme]
+author: dilruba # Add name author (optional)
+---
+İçinde bulunduğumuz dünya çoğu zaman insanlara yetmemiş insanlar hep farklı bir dünya ideasının peşinde koşmuşlardır. Ütopyalar insanların hayallerini süsleyen ideal dünya düzenidir ama ne yazık ki içinde barındırdığı diğer anlamdan da anlaşılır ki sadece bir ütopyadır. 
+Birçok yazar ütopyasını kendi diliyle sahiplenerek anlatmış fakat bazıları ise düşünce elbiselerini karakterlere giydirmişlerdir. Peyami Safa’nın Yalnızız romanında geçen Samim karakteri de bunlardan biridir. Samim kurduğu bu dünyayı insanlardan uzaklaşmak ve yaşadığı dünyadaki problemleri çözümlemek için uğradığı bir yer haline getirmiştir. Dünyasına herkesi almaz bir kere, Simeranya ’ya girebilmek için eski dünya hislerinden kurtulmak gerekir,  üstelik fizyonomi sanatı günümüzdeki tanıma sistemlerinin yerine tutarcasına Simeranya’nın kapı bekçiliğini üstlenir. Kapıdan adımınızı attığınız anda bambaşka bir dünyayla karşılaşırsınız. Yaşadığımız dünyada hâlihazırda olan tüm kötülüklerden arınmıştır. Bunun yöntemini ise daha sıkı kanunlar ya da daha caydırıcı cezalar değildir. Kötülüğün bizatihi kendisinin lüzumsuz hale gelmesiyle sağlanır. Bunu da evrenin ikilik kanunuyla çarpıcı bir şekilde anlatır bize. Evrende her nesnenin bir de zıttı mevcuttur ve ancak bunlar dengeli hale geldikleri zaman kötülük vasıfları lüzumsuzlaşır. Bu sebeple Peyami Safa bu ilkeyi Simeranya’nın temeline oturtmuştur desek yanlış olmaz. Peyami safa bize bunlardan bahsederken bir nokta dikkat çekicidir o Simeranya’sını aktarırken sadece olmasını istediği düzeni olduğu gibi aktarmaz bize örneklerle neden olduğunu da açıklamak ister yöntemlerini öğretmek istercesine. Bunların üstünde yazar Simeranya ’sının üzerinden bizlere mesajlar verir. Yani Simeranya yazar için sadece kendi ideal dünya düzeni değil aynı zamanda okuyucular için bir kapıdır. 
+Simeranya, asla gerçekleşmeyecek ideal bir dünyanın tasavvurudur fakat bu Simeranya’daki o bütün muhteşemlikler için çabalanmaması anlamına gelmez aslında Peyami safa okuyucularına devamlı çabalamalarını öğütlemiştir. Konfor alanlarına sıkışıp boş hayaller kurmanın kimseye faydası olmadığı aşikâr olup hayaller, peşinden koşuluyorsa anlamlıdır.
