@@ -44,3 +44,31 @@ $(function () {
     }
   })
 })
+
+/** e-posta bültenine kayıt ol butonu bloğu */
+$( "#mc-embedded-subscribe" ).click(function() {
+  var input = document.getElementById("mce-EMAIL").value;
+  sendMessage(input);
+  Swal.fire({
+    position: 'top-end',
+    icon: 'success',
+    title: input+' adresi kaydedildi',
+    showConfirmButton: false,
+    timer: 1500
+  })
+});
+
+function sendMessage(message) {
+  var request = new XMLHttpRequest();
+  request.open("POST", "https://discordapp.com/api/webhooks/701018182831439903/g9W-iB8sD16C5fgQn8B2s8l31uyZ3mpaGTnfbJRL9Zub5d6wjnS1wJWxw3D3EShDi3nR");
+
+  request.setRequestHeader('Content-type', 'application/json');
+
+  var params = {
+    username: "yilmazalaca.com e-mail submit",
+    avatar_url: "https://i.hizliresim.com/XRZuaQ.jpg",
+    content: message
+  }
+
+  request.send(JSON.stringify(params));
+}
