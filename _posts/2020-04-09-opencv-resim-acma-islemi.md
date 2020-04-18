@@ -4,7 +4,7 @@ title:  C++ OpenCV ile Resim Açma İşlemi Nasıl Yapılır?
 date:   2020-04-09 13:33:20 +0300
 description: C++ OpenCV ile Resim Açma İşlemi Nasıl Yapılır? # Add post description (optional)
 img: 2020-04-09-opencv-resim-acma-islemi.jpg # Add image post (optional)
-tags: [Blog, C++, Opencv]
+tags: [Blog, C++, OpenCV]
 author: Yılmaz ALACA # Add name author (optional)
 ---
 Hepinize merhaba,

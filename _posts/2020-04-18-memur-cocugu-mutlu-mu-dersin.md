@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Memur Çocuğu Mutlu Mu Dersin?"
+date:   2020-04-18 13:32:20 +0300
+description: "Memur Çocuğu Mutlu Mu Dersin?" # Add post description (optional)
+img: 2020-04-18-memur-cocugu-mutlu-mu-dersin-0.jpg # Add image post (optional)
+tags: [Blog, Kişisel, Yazı]
+author: tahayasir # Add name author (optional)
+---
+Diye başlamak istedim yazıma. Daha başlıktan böyle bir başlangıç olur mu diyebilirsiniz. Yazımda birçok teorik bilgi vermek yerine biraz daha hayatın içinde kalmak istedim. Bizim milletimizde evvelden gelen bir tabir vardır ‘Sırtını devlete yasla da sonrası hallolur.’ diye. Hepimiz bunu duymuşuzdur büyüklerimizden ya da çeşitli televizyon, film ve benzeri dizilerinden. Haklılarda aslında. Hafta sonu tatili var, devlet tarafından başlatılan sigortaları ve daha da iyisi maaşları dolgun. Bunları duyunca tabi ki de hepimize cazip geliyor. Ama hiçbirimiz içerisini görmüyoruz. Yeri geliyor eleştiride bulunuyoruz. Eleştirmek doğal hakkımız ama bazen de dozunu kaçırıyoruz. Çok sinirlendiğinde senin maaşını ben ödüyorum sitemi çıkıveriyor ağzımızdan. Çıktıktan sonra hem bu yorumu yapan hem de bunu duyan üzülüyor. Aslında bazı zorluklarını o güzel imkânları olduğu için görmüyoruz memurluğun. Basit bir örnek vermek istiyorum. Bir polis çocuğu. Evet, bu çocuk maddi açıdan ne zorluk çekebilir ki. Belki de yaşıtlarının elde edemediği birçok şeyi daha erken elde edebilir. Ama birde ona sorsak. O hiç memnun değildir hayatından. Doğmuştur bir şehirde, kimliği çıkmıştır, doğum yeri tescillenmiştir ama belki yaşına bile basmadan başka şehre taşınmak zorunda kalmıştır. Belki de o kimlikte doğum yeri olarak yazan şehri sadece ismen bilecektir. Tam büyümeye başladığında aklı bir şeylere erip arkadaş edinmeye başladığında yine bir başka şehir haberi. Mecburdur gitmeye. Durun, ben buraya alıştım arkadaşlarımdan ayrılmak istemiyorum diyemez. Duruma razı olmak mecburiyetindedir ve artık vedalaşmak yeterince alışılagelir bir durum haline gelir. Sizin de olmuştur bir yere ait hissedemediğiniz anlar. Ah bide o ait olamamayı yaşantısı boyunca içinden silemeyecek olana soruyoruz. Ne denli zor olduğunu yaşayandan başka kim bilip o denli de hissedebilir. Peki ya hep hayalini kurduğumuz aile düzeni. Bunu hayal olarak bile kuramayacak kaygıya sahip olmak… 
+
+İşte dışı bu kadar güzelken içi de bir o kadar sıkıntılıdır memurluğun. Ama bazıları da o kadar kutsaldır ki ayaklarına taş değse bizim içimiz yanar.
