@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "İlk Denemem"
+title:  "ELVEDA güzel VATANIM"
 date:   2020-04-20 07:32:20 +0300
 description: "İlk Denemem" # Add post description (optional)
-img: 2020-04-20-ilk-denemem-0.jpg # Add image post (optional)
+img: 2020-04-20-elveda-guzel-vatanim-0.jpg # Add image post (optional)
 tags: [Deneme, Kişisel, Yazı]
 author: emresayilkan # Add name author (optional)
 ---
