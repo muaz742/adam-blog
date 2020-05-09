@@ -9,7 +9,7 @@ author: # Add name author (optional)
 ---
 Herkese merhaba,
 
-Biliyorsunuzki geçenki [yazımızda](http://yilmazalaca.com/opencv-resim-acma-islemi/) OpenCV ile bir resmi açmıştık. Bu işlem OpenCV kütüphanesinde herkes için ilk adım olarak değerlendirilmektedir. Yazımıza geçmeden önce bir noktaya değinmenin faydalı olacağını düşünüyorum. Bu nokta aslında artık bir zorunluluk haline gelen İngilizce'dir. Hem Türkçe kaynakların yetersizliği hem de yazılımcılar için bir sürü İngilizce kaynağın olmasıdır. Şimdi dersimize devam edelim.
+Biliyorsunuzki geçenki [yazımızda](https://yilmazalaca.com/opencv-resim-acma-islemi/) OpenCV ile bir resmi açmıştık. Bu işlem OpenCV kütüphanesinde herkes için ilk adım olarak değerlendirilmektedir. Yazımıza geçmeden önce bir noktaya değinmenin faydalı olacağını düşünüyorum. Bu nokta aslında artık bir zorunluluk haline gelen İngilizce'dir. Hem Türkçe kaynakların yetersizliği hem de yazılımcılar için bir sürü İngilizce kaynağın olmasıdır. Şimdi dersimize devam edelim.
 İlk olarak size bir soru sormakla başlayacağım. Video nedir? Video, birbiri ardına çekilen resimlerin biraraya getirilmiş halidir. Örneğin, 12000 resmi art arda çekerseniz yaklaşık olarak 7.5 dakikalık bir video elde etmiş olursunuz. Aslında tamda bu noktada değinmek istediğim bir husus var. Döngüler. C++ ta bildiğiniz gibi döngü diyince aklımıza for ve while döngüsü gelir.Belirli değerler gireriz ve bir girdiğimiz değer kadar otomatik olarak kendini tekrar eder. Bu kadar kısa bilgilerden sonra dilerseniz video açma projemizin kodlarını yazmaya başlayalım.
 1. Kütüphanelerimizi tanıtıyoruz
 ```cpp

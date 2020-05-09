@@ -9,7 +9,7 @@ author: # Add name author (optional)
 ---
 Herkese merhaba,
 
-Bugün sizlere herhangi bir resim üzerinde ya da video üzerinde ölçeklendirme yapacağız.Bildiğiniz gibi bütün resimlerin satır ve sütunlardan oluşan bir matris olduğunu [söylemiştik](http://yilmazalaca.com/opencv-resim-acma-islemi/).Bu matris içerisinde belirli sayılar atanmış  piksel dediğimiz dijital görüntüdeki küçük tanecikler bulunmaktadır.Bizde yazılım ile bugün o pikselleri nasıl boyutlandırabileceğimizi resize() fonksiyonu ile öğreneceğiz.Yazılıma geçelim.
+Bugün sizlere herhangi bir resim üzerinde ya da video üzerinde ölçeklendirme yapacağız.Bildiğiniz gibi bütün resimlerin satır ve sütunlardan oluşan bir matris olduğunu [söylemiştik](https://yilmazalaca.com/opencv-resim-acma-islemi/).Bu matris içerisinde belirli sayılar atanmış  piksel dediğimiz dijital görüntüdeki küçük tanecikler bulunmaktadır.Bizde yazılım ile bugün o pikselleri nasıl boyutlandırabileceğimizi resize() fonksiyonu ile öğreneceğiz.Yazılıma geçelim.
 1. Kütüphanelerimizi tanıtalım
 ```cpp
 	#include "opencv2/highgui/highgui.hpp"

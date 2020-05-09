@@ -9,7 +9,7 @@ author: emrearda # Add name author (optional)
 ---
 Merhaba Makerlar,
 
-Biliyorsunuzki geçenki [yazımızda](http://yilmazalaca.com/arduino-dunyasina-giris/) Arduino'ya giriş yapmıştık. Bu hafta ledler ile karaşimşek projesi gerçekleştereceğiz. Ancak bu projeyi gerçekleştirmek için tabiki bilmemiz gereken yazılımsal ve elektronik bilgiler var. Gelin öncelikle proje için gerekli olan yazılımsal ardından da elektronik kısımları ele alıp, hemen sonrasında projenin yapımına geçelim. 
+Biliyorsunuzki geçenki [yazımızda](https://yilmazalaca.com/arduino-dunyasina-giris/) Arduino'ya giriş yapmıştık. Bu hafta ledler ile karaşimşek projesi gerçekleştereceğiz. Ancak bu projeyi gerçekleştirmek için tabiki bilmemiz gereken yazılımsal ve elektronik bilgiler var. Gelin öncelikle proje için gerekli olan yazılımsal ardından da elektronik kısımları ele alıp, hemen sonrasında projenin yapımına geçelim. 
 
 Yazılımsal olarak ;
 
